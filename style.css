@@ -1,0 +1,41 @@
+body{
+    text-align: center;
+    background: rgb(160,252,251);
+background: linear-gradient(99deg, rgba(160,252,251,1) 8%, rgba(244,128,67,1) 32%, rgba(31,3,254,1) 100%);
+}
+#greetflow{
+    width: 1000px;
+}
+.links {
+    float: none;
+    color: black;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    font-size:25px;
+}
+.menu{
+    list-style: none;
+    position: fixed;
+    top: 0px;
+    z-index: 10;
+    width: 100%
+}
+#slides{
+    margin: 0px auto; //center
+    width:1000px;
+    height: 600px;
+    text-align: center;
+}
+.links{
+    display:inline;
+}
+.img1{
+    width: 300px;
+    height: 300px;
+}
+.img2{
+    width: 300px;
+    height: 300px;
+}
